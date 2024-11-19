@@ -36,3 +36,7 @@ Receive data by sending HTTP request to the exposed endpoint.
 }
 
 receiveData();
+
+# UML Diagram
+
+![Screenshot 2024-11-18 171046](https://github.com/user-attachments/assets/34a3132d-4ee2-49a8-9d36-d8d4886ba274)
