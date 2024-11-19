@@ -19,7 +19,7 @@ async function makeRequest() {
 makeRequest();
 
 # Receive Data
-Receive data by sending HTTP request to the exposed endpoint
+Receive data by sending HTTP request to the exposed endpoint.
 
 # Receive Data Example
 
